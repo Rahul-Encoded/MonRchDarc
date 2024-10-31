@@ -1,0 +1,119 @@
+{
+	"name": "MonRch-Dark",
+	"colors": {
+		"editor.background": "#1e1b29CC", // Dark violet with transparency
+		"editor.foreground": "#E0E0E0",
+		"activityBarBadge.background": "#C2185BCC", // Dark red, slightly transparent
+		"sideBar.background": "#1e1b29CC", // Matches editor background for cohesive look
+		"sideBarTitle.foreground": "#D1C4E9", // Light lavender for contrast
+		"statusBar.background": "#8e24aa", // Purple gives a royal, modern look
+		"statusBar.foreground": "#FAFAFA"
+	},
+	"tokenColors": [
+		{
+			"name": "Comment",
+			"scope": [
+				"comment",
+				"punctuation.definition.comment"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#B0BEC5" // Soft grey-blue for readability
+			}
+		},
+		{
+			"name": "Variables",
+			"scope": [
+				"variable",
+				"string constant.other.placeholder"
+			],
+			"settings": {
+				"foreground": "#C3E88D" // Soft green, stands out on dark background
+			}
+		},
+		{
+			"name": "Invalid",
+			"scope": [
+				"invalid",
+				"invalid.illegal"
+			],
+			"settings": {
+				"foreground": "#ff1744" // Neon red for high contrast on errors
+			}
+		},
+		{
+			"name": "Keyword, Storage",
+			"scope": [
+				"keyword",
+				"storage.type",
+				"storage.modifier"
+			],
+			"settings": {
+				"foreground": "#B388FF" // Vivid purple for prominent keywords
+			}
+		},
+		{
+			"name": "Operator, Misc",
+			"scope": [
+				"keyword.control",
+				"constant.other.color",
+				"punctuation",
+				"meta.tag",
+				"punctuation.definition.tag",
+				"keyword.other.template"
+			],
+			"settings": {
+				"foreground": "#80DEEA" // Cyan blue, adds to modern look
+			}
+		},
+		{
+			"name": "Function, Special Method",
+			"scope": [
+				"entity.name.function",
+				"meta.function-call"
+			],
+			"settings": {
+				"foreground": "#FFAB91" // Peach tone for functions, eye-catching
+			}
+		},
+		{
+			"name": "String, Symbols, Inherited Class, Markup Heading",
+			"scope": [
+				"string",
+				"constant.other.symbol",
+				"markup.heading"
+			],
+			"settings": {
+				"foreground": "#FFD180" // Orange for high readability
+			}
+		},
+		{
+			"name": "Class, Support",
+			"scope": [
+				"entity.name",
+				"support.class"
+			],
+			"settings": {
+				"foreground": "#FF8A80" // Bright red-orange for class names
+			}
+		},
+		{
+			"name": "Attributes",
+			"scope": [
+				"entity.other.attribute-name"
+			],
+			"settings": {
+				"foreground": "#FFAB91" // Light coral for HTML attributes
+			}
+		},
+		{
+			"name": "CSS ID's",
+			"scope": [
+				"source.sass keyword.control"
+			],
+			"settings": {
+				"foreground": "#E040FB" // Vivid purple-pink for CSS IDs
+			}
+		}
+	]
+}
