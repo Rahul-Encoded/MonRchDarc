@@ -1,0 +1,21 @@
+{
+  "name": "monrch-darc",
+  "displayName": "demo-theme",
+  "description": "this is a test visual studio code dark theme by Rahul",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MonRch-Darc",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MonRch-Darc-color-theme.json"
+      }
+    ]
+  }
+}
