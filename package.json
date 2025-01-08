@@ -2,6 +2,16 @@
   "name": "monrch-darc",
   "displayName": "demo-theme",
   "description": "this is a test visual studio code dark theme by Rahul",
+  "publisher": "MonRch",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rahul-Encoded/MonRchDarc.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "MonRch-Darc"
+  ],
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.95.0"
