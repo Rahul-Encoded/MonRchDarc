@@ -7,7 +7,9 @@
 		"sideBar.background": "#1e1b29CC", // Matches editor background for cohesive look
 		"sideBarTitle.foreground": "#D1C4E9", // Light lavender for contrast
 		"statusBar.background": "#8e24aa", // Purple gives a royal, modern look
-		"statusBar.foreground": "#FAFAFA"
+		"statusBar.foreground": "#FAFAFA",
+		"sideBar.border": "#8e24aa", // Purple border for sideBar
+        "editorGroup.border": "#8e24aa" // Purple border for editor group
 	},
 	"tokenColors": [
 		{
