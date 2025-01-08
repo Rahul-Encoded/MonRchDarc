@@ -31,3 +31,5 @@ MonRch-Darc is a sophisticated and modern Visual Studio Code theme designed to e
 - **Classes & Supports**: Bright red-orange (`#FF8A80`)
 - **Attributes**: Light coral (`#FFAB91`)
 - **CSS IDs**: Vivid purple-pink (`#E040FB`)
+
+### Hope you love it🖤😁
