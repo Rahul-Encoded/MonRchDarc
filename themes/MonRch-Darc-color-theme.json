@@ -9,7 +9,7 @@
 		"statusBar.background": "#8e24aa", // Purple gives a royal, modern look
 		"statusBar.foreground": "#FAFAFA",
 		"sideBar.border": "#8e24aa", // Purple border for sideBar
-        "editorGroup.border": "#8e24aa" // Purple border for editor group
+    "editorGroup.border": "#8e24aa" // Purple border for editor group
 	},
 	"tokenColors": [
 		{
