@@ -13,7 +13,7 @@ MonRch-Darc is a sophisticated and modern Visual Studio Code theme designed to e
 
 ### Editor Colors
 - **Editor Background**: Dark violet with transparency (`#1e1b29CC`)
-- **Editor Foreground**: Light grey (`#E0E0E0`)
+- **Editor Foreground**: Light grey (`#EFBF04`)
 - **Activity Bar Badge Background**: Dark red with slight transparency (`#C2185BCC`)
 - **Side Bar Background**: Dark violet for a cohesive look (`#1e1b29CC`)
 - **Side Bar Title Foreground**: Light lavender (`#D1C4E9`)
