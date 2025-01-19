@@ -2,6 +2,10 @@
 
 MonRch-Darc is a sophisticated and modern Visual Studio Code theme designed to enhance your coding experience with its unique blend of dark violet backgrounds, transparent effects, and striking colors. This theme aims to provide a regal atmosphere while ensuring optimal readability and aesthetics.
 
+# Demo pic
+
+![Theme Screenshot](<Screenshot (1).png>)
+
 ## Features
 
 - **Dark Violet Background**: The theme features a dark violet background with transparency, creating a visually appealing workspace.
