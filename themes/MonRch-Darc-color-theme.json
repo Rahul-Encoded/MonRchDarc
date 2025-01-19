@@ -2,7 +2,7 @@
 	"name": "MonRch-Darc",
 	"colors": {
 		"editor.background": "#1e1b29CC", // Dark violet with transparency
-		"editor.foreground": "#E0E0E0",
+		"editor.foreground": "#ADEBB3",
 		"activityBarBadge.background": "#C2185BCC", // Dark red, slightly transparent
 		"sideBar.background": "#1e1b29CC", // Matches editor background for cohesive look
 		"sideBarTitle.foreground": "#D1C4E9", // Light lavender for contrast
