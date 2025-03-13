@@ -4,7 +4,7 @@ MonRch-Darc is a sophisticated and modern Visual Studio Code theme designed to e
 
 # Demo pic
 
-![Theme Screenshot](<Screenshot (1).png>)
+![MonRch Darc Theme](images/screenshot.png)
 
 ## Features
 
